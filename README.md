@@ -1,5 +1,5 @@
 # Seneca2Office
-Script realizado en Bash para facilitar la creación de un archivo para importar cuentas en Office365 usando la información de la plataforma Séneca (Andalucía). 
+Script realizado en Bash para facilitar la creación de un archivo para importar cuentas en Office365 usando la información de la plataforma Séneca (Andalucía). Concretamente, genera el documento para importar con la contraseña dada siguiendo el formato: nombreapellidos@dominio.com.
 
 ## Instalación y uso
 
